@@ -38,3 +38,4 @@ Thumbs.db
 # Audio / video artifacts and large test outputs
 *.tmp
 tmp*
+
